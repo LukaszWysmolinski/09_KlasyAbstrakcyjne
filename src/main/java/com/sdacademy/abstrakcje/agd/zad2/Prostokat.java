@@ -33,6 +33,6 @@ public class Prostokat extends Ksztalt {
 
     @Override
     public String toString() {
-        return "Prostokat o boku A: " + bokA + " i boku B: " + bokB + " ma pole: " + obliczPole();
+        return "Prostokąt o boku A: " + bokA + " i boku B: " + bokB + " ma pole: " + obliczPole();
     }
 }
